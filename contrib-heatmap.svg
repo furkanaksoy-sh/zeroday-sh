@@ -163,9 +163,9 @@
 <rect x="315" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.405s; opacity: 0;"/>
 <rect x="330" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.330s; opacity: 0;"/>
 <rect x="330" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.345s; opacity: 0;"/>
-<rect x="330" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.360s; opacity: 0;"/>
+<rect x="330" y="30" width="11" height="11" rx="2" fill="#39d353" style="animation: fadeIn 0.4s ease forwards 0.360s; opacity: 0;"/>
 <rect x="330" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.375s; opacity: 0;"/>
-<rect x="330" y="60" width="11" height="11" rx="2" fill="#39d353" style="animation: fadeIn 0.4s ease forwards 0.390s; opacity: 0;"/>
+<rect x="330" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.390s; opacity: 0;"/>
 <rect x="330" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.405s; opacity: 0;"/>
 <rect x="330" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.420s; opacity: 0;"/>
 <rect x="345" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.345s; opacity: 0;"/>
@@ -214,11 +214,11 @@
 <rect x="435" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.450s; opacity: 0;"/>
 <rect x="435" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.465s; opacity: 0;"/>
 <rect x="435" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.480s; opacity: 0;"/>
-<rect x="435" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.495s; opacity: 0;"/>
-<rect x="435" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.510s; opacity: 0;"/>
+<rect x="435" y="60" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.495s; opacity: 0;"/>
+<rect x="435" y="75" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.510s; opacity: 0;"/>
 <rect x="435" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.525s; opacity: 0;"/>
-<rect x="450" y="0" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.450s; opacity: 0;"/>
-<rect x="450" y="15" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.465s; opacity: 0;"/>
+<rect x="450" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.450s; opacity: 0;"/>
+<rect x="450" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.465s; opacity: 0;"/>
 <rect x="450" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.480s; opacity: 0;"/>
 <rect x="450" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.495s; opacity: 0;"/>
 <rect x="450" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.510s; opacity: 0;"/>
@@ -267,11 +267,11 @@
 <rect x="540" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.615s; opacity: 0;"/>
 <rect x="540" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.630s; opacity: 0;"/>
 <rect x="555" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.555s; opacity: 0;"/>
-<rect x="555" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.570s; opacity: 0;"/>
+<rect x="555" y="15" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.570s; opacity: 0;"/>
 <rect x="555" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.585s; opacity: 0;"/>
 <rect x="555" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.600s; opacity: 0;"/>
 <rect x="555" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.615s; opacity: 0;"/>
-<rect x="555" y="75" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.630s; opacity: 0;"/>
+<rect x="555" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.630s; opacity: 0;"/>
 <rect x="555" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.645s; opacity: 0;"/>
 <rect x="570" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.570s; opacity: 0;"/>
 <rect x="570" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.585s; opacity: 0;"/>
@@ -319,12 +319,12 @@
 <rect x="660" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.675s; opacity: 0;"/>
 <rect x="660" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.690s; opacity: 0;"/>
 <rect x="660" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.705s; opacity: 0;"/>
-<rect x="660" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.720s; opacity: 0;"/>
+<rect x="660" y="60" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.720s; opacity: 0;"/>
 <rect x="660" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.735s; opacity: 0;"/>
 <rect x="660" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.750s; opacity: 0;"/>
 <rect x="675" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.675s; opacity: 0;"/>
 <rect x="675" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.690s; opacity: 0;"/>
-<rect x="675" y="30" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.705s; opacity: 0;"/>
+<rect x="675" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.705s; opacity: 0;"/>
 <rect x="675" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.720s; opacity: 0;"/>
 <rect x="675" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.735s; opacity: 0;"/>
 <rect x="675" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.750s; opacity: 0;"/>
@@ -371,12 +371,6 @@
 <rect x="765" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.825s; opacity: 0;"/>
 <rect x="765" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.840s; opacity: 0;"/>
 <rect x="765" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.855s; opacity: 0;"/>
-<rect x="780" y="0" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.780s; opacity: 0;"/>
-<rect x="780" y="15" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.795s; opacity: 0;"/>
-<rect x="780" y="30" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.810s; opacity: 0;"/>
-<rect x="780" y="45" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.825s; opacity: 0;"/>
-<rect x="780" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.840s; opacity: 0;"/>
-<rect x="780" y="75" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.855s; opacity: 0;"/>
-<rect x="780" y="90" width="11" height="11" rx="2" fill="#161b22" style="animation: fadeIn 0.4s ease forwards 0.870s; opacity: 0;"/>
+<rect x="780" y="0" width="11" height="11" rx="2" fill="#0e4429" style="animation: fadeIn 0.4s ease forwards 0.780s; opacity: 0;"/>
 </g>
 </svg>
